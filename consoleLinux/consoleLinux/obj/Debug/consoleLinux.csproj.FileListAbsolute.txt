@@ -1,0 +1,11 @@
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\bin\Debug\consoleLinux.exe.config
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\bin\Debug\consoleLinux.exe
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\bin\Debug\consoleLinux.pdb
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\bin\Debug\Renci.SshNet.dll
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\bin\Debug\Renci.SshNet.xml
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\obj\Debug\consoleLinux.csprojResolveAssemblyReference.cache
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\obj\Debug\consoleLinux.Properties.Resources.resources
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\obj\Debug\consoleLinux.csproj.GenerateResource.Cache
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\obj\Debug\consoleLinux.exe
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\obj\Debug\consoleLinux.pdb
+E:\workbench\workspaceC#\consoleLinux\consoleLinux\consoleLinux\obj\Debug\consoleLinux.Console.resources

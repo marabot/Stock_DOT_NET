@@ -1,0 +1,5 @@
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroTest\bin\Debug\neuroTest.exe.config
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroTest\bin\Debug\neuroTest.exe
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroTest\bin\Debug\neuroTest.pdb
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroTest\obj\Debug\neuroTest.exe
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroTest\obj\Debug\neuroTest.pdb

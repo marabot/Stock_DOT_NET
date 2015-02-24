@@ -1,0 +1,8 @@
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\EssaiSudoku\bin\Debug\EssaiSudoku.exe.config
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\EssaiSudoku\bin\Debug\EssaiSudoku.exe
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\EssaiSudoku\bin\Debug\EssaiSudoku.pdb
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\EssaiSudoku\obj\Debug\EssaiSudoku.exe
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\EssaiSudoku\obj\Debug\EssaiSudoku.pdb
+E:\workbench\workspaceC#\EssaiSudoku\EssaiSudoku\bin\Debug\EssaiSudoku.exe.config
+E:\workbench\workspaceC#\EssaiSudoku\EssaiSudoku\obj\Debug\EssaiSudoku.exe
+E:\workbench\workspaceC#\EssaiSudoku\EssaiSudoku\obj\Debug\EssaiSudoku.pdb

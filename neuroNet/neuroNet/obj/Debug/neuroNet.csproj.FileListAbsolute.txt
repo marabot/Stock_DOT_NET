@@ -1,0 +1,5 @@
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroNet\bin\Debug\neuroNet.exe.config
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroNet\obj\Debug\neuroNet.csprojResolveAssemblyReference.cache
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroNet\obj\Debug\neuroNet.Form1.resources
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroNet\obj\Debug\neuroNet.Properties.Resources.resources
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\neuroNet\neuroNet\obj\Debug\neuroNet.csproj.GenerateResource.Cache

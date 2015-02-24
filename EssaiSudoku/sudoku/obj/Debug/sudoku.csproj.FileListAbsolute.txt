@@ -1,0 +1,17 @@
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.Cache
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\acharcos\Desktop\cours et exercices\AspNet\EssaiSudoku\sudoku\obj\Debug\sudoku.pdb
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\bin\Debug\sudoku.exe.config
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\obj\Debug\sudoku.exe
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\obj\Debug\sudoku.pdb
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\bin\Debug\sudoku.exe
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\bin\Debug\sudoku.pdb
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\obj\Debug\sudoku.Form1.resources
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+E:\workbench\workspaceC#\EssaiSudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.Cache
